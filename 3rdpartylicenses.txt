@@ -132,6 +132,10 @@ SOFTWARE.
 MIT
 MIT
 
+ng2-image-compress@1.0.17
+MIT
+MIT
+
 @angular/forms@4.4.4
 MIT
 MIT
